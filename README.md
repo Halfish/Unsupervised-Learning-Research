@@ -26,7 +26,7 @@
 - 戴眼镜男人－不戴眼镜男人＋不戴眼镜女人＝戴眼镜女人
 - 从一张人脸渐变到另一张人脸
 
-“这篇论文的提出看似并没有很大创新，但其实它的开源代码现在被使用和借鉴的频率最高……这些工程性的突破无疑是更多人选择 DCGAN 这一工作作为 base 的重要原因”
+- “这篇论文的提出看似并没有很大创新，但其实它的开源代码现在被使用和借鉴的频率最高……这些工程性的突破无疑是更多人选择 DCGAN 这一工作作为 base 的重要原因”
 
 [**Improved Techniques for Training GANs**](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjj-dyWja3OAhVH72MKHfcYDiIQFggeMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1606.03498&usg=AFQjCNH9R9u-Ebipy1XHgBsLZ-7t7r-CXQ&sig2=O2LZ0ZODToCBQMYZ_XgFtw)
 （[代码](https://github.com/openai/improved-gan)）
