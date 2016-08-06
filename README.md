@@ -8,12 +8,12 @@
 - [Generative Adversarial Networks（GAN）的现有工作 | 程序媛的日常](http://chuansong.me/n/317902651864)
 
 ## Table of Contents
-[生成对抗网络Generative Adversarial Network](#生成对抗网络Generative Adversarial Network)
-[变分自编码机Variation Auto Encoder](#变分自编码机Variation Auto Encoder)
-[Pixel RNN类模型](#Pixel RNN类模型)
-[自编码机Auto Encoder](#自编码机Auto Encoder)
-[梯子网络Ladder Network](#梯子网络Ladder Network)
-[其他](#其他)
+- [生成对抗网络Generative Adversarial Network](#生成对抗网络Generative Adversarial Network)
+- [变分自编码机Variation Auto Encoder](#变分自编码机Variation Auto Encoder)
+- [Pixel RNN类模型](#Pixel RNN类模型)
+- [自编码机Auto Encoder](#自编码机Auto Encoder)
+- [梯子网络Ladder Network](#梯子网络Ladder Network)
+- [其他](#其他)
 
 ### 生成对抗网络Generative Adversarial Network
 
