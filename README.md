@@ -14,8 +14,8 @@
 - [Pixel RNN类模型](#pixel-rnn类模型)
 - [自编码机Auto Encoder](#自编码机auto-encoder)
 - [梯子网络Ladder Network](#梯子网络ladder-network)
-- [One-shot Learning](one-shot-learning)
-- [Zero-shot Learning](zero-shot-learning)
+- [One Shot Learning](one-shot-learning)
+- [Zero Shot Learning](zero-shot-learning)
 - [其他](#其他)
 
 ### 生成内容
@@ -62,10 +62,10 @@
 [**Deconstructing the Ladder Network Architecture**](http://arxiv.org/abs/1511.06430)
 - 深入挖掘Ladder Network的原理
 
-### One-shot Learning
+### One Shot Learning
 [**One-Shot Generalization in Deep Generative Models**](http://arxiv.org/abs/1603.05106)
 
-### Zero-shot Learning
+### Zero Shot Learning
 
 ### 其他
 
