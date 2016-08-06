@@ -7,7 +7,7 @@
 - [A Path to Unsupervised Learning through Adversarial Networks](https://code.facebook.com/posts/1587249151575490/a-path-to-unsupervised-learning-through-adversarial-networks/)
 - [Generative Adversarial Networks（GAN）的现有工作 | 程序媛的日常](http://chuansong.me/n/317902651864)
 
-## Table of Contents
+## 目录
 - [生成对抗网络Generative Adversarial Network](#生成对抗网络Generative Adversarial Network)
 - [变分自编码机Variation Auto Encoder](#变分自编码机Variation Auto Encoder)
 - [Pixel RNN类模型](#Pixel RNN类模型)
@@ -15,7 +15,7 @@
 - [梯子网络Ladder Network](#梯子网络Ladder Network)
 - [其他](#其他)
 
-### 生成对抗网络Generative Adversarial Network
+## 生成对抗网络Generative Adversarial Network
 
 **Generative Adversarial Net**
 - Goodfellow的GAN开山之作
@@ -35,13 +35,13 @@
 - 对representation code空间施加一些要求，使其更具结构化，而非混沌一团
 - 结果在representation向量的单个维度上获得了非常好的可解释性，例如渐变一个维度的数值，生成的人脸图谱从“抬头姿态”到“低头姿态”渐变，非常像流形学习里面的一些例子
 
-### 变分自编码机Variation Auto Encoder
+## 变分自编码机Variation Auto Encoder
 
-### Pixel RNN类模型
+## Pixel RNN类模型
 
-### 自编码机Auto Encoder
+## 自编码机Auto Encoder
 
-### 梯子网络Ladder Network
+## 梯子网络Ladder Network
 
 **From neural PCA to deep unsupervised learning**
 - 提出Ladder架构，但还未做半监督学习
@@ -52,7 +52,7 @@
 **Deconstructing the Ladder Network Architecture**
 - 深入挖掘Ladder Network的原理
 
-### 其他
+## 其他
 
 **Towards Principled Unsupervised Learning**
 - 用GAN做半监督学习的论文中所定义的新的损失函数与这篇提出的Output Distribution Matching (ODM) cost有紧密联系
