@@ -17,7 +17,7 @@
 
 ### 生成对抗网络Generative Adversarial Network
 
-**Generative Adversarial Net**
+[**Generative Adversarial Networks**](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjuloXYjK3OAhUKzGMKHaKxBC0QFggjMAA&url=http%3A%2F%2Farxiv.org%2Fabs%2F1406.2661&usg=AFQjCNFS1L_w3b2OCDuQ6-mYYyJS8QY6zg&sig2=95g44Ovfcoqohs3mP2lTqg)
 - Goodfellow的GAN开山之作
 
 **Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks**（[代码](https://github.com/Newmu/dcgan_code)）
