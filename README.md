@@ -20,7 +20,8 @@
 [**Generative Adversarial Networks**](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjuloXYjK3OAhUKzGMKHaKxBC0QFggjMAA&url=http%3A%2F%2Farxiv.org%2Fabs%2F1406.2661&usg=AFQjCNFS1L_w3b2OCDuQ6-mYYyJS8QY6zg&sig2=95g44Ovfcoqohs3mP2lTqg)
 - Goodfellow的GAN开山之作
 
-**Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks**（[代码](https://github.com/Newmu/dcgan_code)）
+[**Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks**](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjOwZD7jK3OAhUDzGMKHaYWCSUQFgghMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1511.06434&usg=AFQjCNEv8dvUWUCZ0tDm8R9lro2Pzr4tlA&sig2=wE2SZocVhO_gYZfpVOugaQ)
+（[代码](https://github.com/Newmu/dcgan_code)）
 - 生成房间图片
 - 戴眼镜男人－不戴眼镜男人＋不戴眼镜女人＝戴眼镜女人
 - 从一张人脸渐变到另一张人脸
