@@ -25,6 +25,7 @@
 ### 生成对抗网络Generative Adversarial Network
 
 [**Generative Adversarial Networks**](http://arxiv.org/abs/1406.2661)
+（[代码](https://github.com/goodfeli/adversarial)
 - Goodfellow的GAN开山之作
 
 [**Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks**](https://arxiv.org/abs/1511.06434)
