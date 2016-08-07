@@ -28,6 +28,8 @@
 （[代码](https://github.com/goodfeli/adversarial)
 - Goodfellow的GAN开山之作
 
+[**Conditional Generative Adversarial Nets**](https://arxiv.org/abs/1411.1784)
+
 [**Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks**](https://arxiv.org/abs/1511.06434)
 （[代码](https://github.com/Newmu/dcgan_code)）
 - 生成房间图片
@@ -51,6 +53,8 @@
 ### Pixel RNN类模型
 
 ### 自编码机Auto Encoder
+
+[**Stacked What-Where Auto-encoders**](https://arxiv.org/abs/1506.02351)
 
 ### 梯子网络Ladder Network
 
