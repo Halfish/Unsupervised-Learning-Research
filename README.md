@@ -53,6 +53,7 @@
 
 ### Pixel RNN类模型
 [**Pixel Recurrent Neural Networks**](http://arxiv.org/abs/1601.06759)
+
 [**Conditional Image Generation with PixelCNN Decoders**](http://arxiv.org/abs/1606.05328)
 
 ### 自编码机Auto Encoder
@@ -77,8 +78,11 @@
 
 ### Biologically Plausible Learning
 [**Towards Biologically Plausible Deep Learning**](http://arxiv.org/abs/1502.04156)
+
 [**Towards a Biologically Plausible Backprop**](http://arxiv.org/abs/1602.05179)
+
 [**Feedforward Initialization for Fast Inference of Deep Generative Networks is Biologically Plausible**](http://arxiv.org/abs/1606.01651)
+
 
 ### 其他
 
