@@ -23,10 +23,17 @@
 [**A Neural Algorithm of Artistic Style**](https://arxiv.org/abs/1508.06576)
 - 传说中的Neural Style
 
+[**Image Completion with Deep Learning in TensorFlow**](http://bamos.github.io/2016/08/09/deep-completion/)
+（[代码](https://github.com/bamos/dcgan-completion.tensorflow)）
+- 用GAN做图像修复（image inpainting任务），主要思想是同时优化两个目标：
+- 1.原图中有完好区域和丢失区域，要让生成的修复图与原图在对应的完好区域尽可能接近（所谓Contextual Loss）
+- 2.要让生成的修复图尽可能被GAN的判别器判定为真实图片，尽可能像真的（所谓Perceptual Loss）
+- 论文：[**Semantic Image Inpainting with Perceptual and Contextual Losses**](https://arxiv.org/abs/1607.07539)
+
 ### 生成对抗网络Generative Adversarial Network
 
 [**Generative Adversarial Networks**](http://arxiv.org/abs/1406.2661)
-（[代码](https://github.com/goodfeli/adversarial)
+（[代码](https://github.com/goodfeli/adversarial)）
 - Goodfellow的GAN开山之作
 
 [**Conditional Generative Adversarial Nets**](https://arxiv.org/abs/1411.1784)
